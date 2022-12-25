@@ -1,0 +1,5 @@
+beautifulsoup4
+pip install beautifulsoup4
+
+wget
+pip install wget
